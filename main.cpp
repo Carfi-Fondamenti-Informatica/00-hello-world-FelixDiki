@@ -1,9 +1,5 @@
-#include <iostream>
 using namespace std;
-#include <iostream>
-
 bool opzione;
-
 int main() {
    float a=0;
     float b = 0;
